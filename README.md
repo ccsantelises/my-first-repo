@@ -1,5 +1,3 @@
-# my-first-repo
-# my-first-repo
 # This is a large heading
 
 ## This is a smaller heading
